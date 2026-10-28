@@ -1,0 +1,6 @@
+{
+  "name": "Lumière Bakehouse - AI Smart Bakery OS",
+  "description": "AI-powered bakery management platform with interactive 3D kitchen showcase, predictive demand forecasting, recipe optimization, real-time oven proofing monitors, and intelligent inventory management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
